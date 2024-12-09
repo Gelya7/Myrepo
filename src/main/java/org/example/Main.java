@@ -5,6 +5,6 @@ public class Main {
         int num = 5;
         System.out.println("Number is " + num);
         num = 55;
-        Sys
+        System.out.println("Gelya");
     }
 }
